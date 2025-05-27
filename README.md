@@ -58,7 +58,7 @@
 3. Right-click inside the folder and select **Open in Terminal**.
 4. Install dependencies:
    ```powershell
-   pip install requests colorama rich pyinstaller
+   pip install pywifi comtypes
    ```
 
 5. Run the script using:
